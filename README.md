@@ -8,7 +8,7 @@
 
 ### 2. 然后从git拉取
 ```
-git clone ['https://github.com/glassy-sky-lisong/TankGame'](https://github.com/glassy-sky-lisong/TankGame.git)
+git clone https://github.com/glassy-sky-lisong/TankGame.git
 ```
 ### 3. 打开IDE，从本地导入TankGame
 
